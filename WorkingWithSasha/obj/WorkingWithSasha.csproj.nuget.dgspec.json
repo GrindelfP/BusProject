@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/gregory/programming/first_test_project/WorkingWithSasha/WorkingWithSasha/WorkingWithSasha.csproj": {}
+    "/home/gregory/programming/C#Projects/WorkingWithSasha/WorkingWithSasha/WorkingWithSasha.csproj": {}
   },
   "projects": {
-    "/home/gregory/programming/first_test_project/WorkingWithSasha/WorkingWithSasha/WorkingWithSasha.csproj": {
+    "/home/gregory/programming/C#Projects/WorkingWithSasha/WorkingWithSasha/WorkingWithSasha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/gregory/programming/first_test_project/WorkingWithSasha/WorkingWithSasha/WorkingWithSasha.csproj",
+        "projectUniqueName": "/home/gregory/programming/C#Projects/WorkingWithSasha/WorkingWithSasha/WorkingWithSasha.csproj",
         "projectName": "WorkingWithSasha",
-        "projectPath": "/home/gregory/programming/first_test_project/WorkingWithSasha/WorkingWithSasha/WorkingWithSasha.csproj",
+        "projectPath": "/home/gregory/programming/C#Projects/WorkingWithSasha/WorkingWithSasha/WorkingWithSasha.csproj",
         "packagesPath": "/home/gregory/.nuget/packages/",
-        "outputPath": "/home/gregory/programming/first_test_project/WorkingWithSasha/WorkingWithSasha/obj/",
+        "outputPath": "/home/gregory/programming/C#Projects/WorkingWithSasha/WorkingWithSasha/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/gregory/.nuget/NuGet/NuGet.Config"

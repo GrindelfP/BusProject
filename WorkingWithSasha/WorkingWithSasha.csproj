@@ -8,4 +8,10 @@
         <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Reference Include="ConsoleMethods, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\..\CsProjects\ConsoleMethods\bin\Debug\net6.0\ConsoleMethods.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
 </Project>
